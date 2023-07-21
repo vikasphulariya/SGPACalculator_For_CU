@@ -3,7 +3,7 @@ Calculates SGPA for Semester your Result<br/>
 Visit On https://uims.cuchd.in/uims/result.aspx <br/>
 then Change Result type from regular to Session<br/>
 Then It will Display you Current Semester Result<br/>
-Now Press <a>ctrl+shift+i</> this will open a window Now CHoose Console tab<br/>
+Now Press <a>ctrl+shift+i<a/> this will open a window Now CHoose Console tab<br/>
 In COnsole tab Paste the Below Command <br/>
 ```js
 function getGradePoint(value){
